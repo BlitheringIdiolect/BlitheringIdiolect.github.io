@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Blithering Idiolect",
+    "section": "",
+    "text": "Blithering Idiolect is learning how to Quarto!\nitalics (one bordering asterisk)\nbold (two bordering asterisks)\nboth! (three!)\nstrikethrough (~~ bordering)\n`` &lt; verbatim code in the middle"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#header-2",
+    "href": "index.html#header-2",
+    "title": "Blithering Idiolect",
+    "section": "Header 2 #",
+    "text": "Header 2 #\n\nHeader 3 #\n\nHeader 4 #\n\nHeader 5 #\n\nHeader 6 #\n&lt;&gt; (surrounding) results in: https://phonetics.as.uky.edu/\n[]() text in in the square brackets, link in the parens = Phonetics Lab\n\n\n\nstart with “!” then the caption in square brakets. Then the image name in parens. Check source view if it isn’t working right.\n\n\n\n\n\nSame as above but wrap in another set of square brackets. Then put a link in parens at the end (not in the brackets)\n\n\n\n\n\nAdd text in quotes after the link to add hover text\n\n\nFigures are center aligned by default. Add the fig-align attribute to the image to use a different alignment. (Put fig-align=“left or right” in curly braces at the end)\n\n\n\nwug align left example\n\n\n\n\n\n\n\n\n\nWUG\n\n\n\n\nthis is just text\n\n\nthis is another line of text\n\n\n\n\n\n\n\n\nwug two\n\n\n\n\n\n\n\nwug three\n\n\n\n\n\n\n\nwug four\n\n\n\n\n\n\n\n\n\nwug five with a break"
+  }
+]

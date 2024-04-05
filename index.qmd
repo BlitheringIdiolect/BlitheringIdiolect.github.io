@@ -1,0 +1,66 @@
+---
+title: "Blithering Idiolect"
+---
+
+Blithering Idiolect is learning how to Quarto!
+
+*italics* (one bordering asterisk)
+
+**bold** (two bordering asterisks)
+
+***both!*** (three!)
+
+~~strikethrough~~ (\~\~ bordering)
+
+\`\` \< verbatim code in the middle
+
+# Header 1 \#
+
+## Header 2 \#
+
+### Header 3 \#
+
+#### Header 4 \#
+
+##### Header 5 \#
+
+###### Header 6 \#
+
+\<\> (surrounding) results in: <https://phonetics.as.uky.edu/>
+
+\[\]() text in in the square brackets, link in the parens = [Phonetics Lab](https://phonetics.as.uky.edu/)
+
+![start with "!" then the caption in square brakets. Then the image name in parens. Check source view if it isn't working right.](academicwug.png)
+
+[![Same as above but wrap in another set of square brackets. Then put a link in parens at the end (not in the brackets)](academicwug.png)](https://phonetics.as.uky.edu/)
+
+[![Add text in quotes after the link to add hover text](academicwug.png)](https://phonetics.as.uky.edu/)
+
+Figures are center aligned by default. Add the fig-align attribute to the image to use a different alignment. (Put fig-align="left or right" in curly braces at the end)
+
+![wug align left example](academicwug.png){fig-align="left"}
+
+:::: {layout-ncol=4}
+
+::: {#first-column}
+
+![](academicwug.png)
+
+|[**WUG**](http://www.google.com)|
+|:-:|
+|this is ~~just~~ text|
+|this is another line of text|
+
+:::
+
+![wug two](academicwug.png)
+
+![wug three](academicwug.png)
+
+![wug four](academicwug.png)
+
+![wug five
+with a break](academicwug.png) 
+::::
+
+

@@ -1,0 +1,31 @@
+{
+    "id": "13C96381",
+    "path": "~/Quarto/BlitheringIdiolect/index.qmd",
+    "project_path": "index.qmd",
+    "type": "quarto_markdown",
+    "hash": "557286866",
+    "contents": "",
+    "dirty": false,
+    "created": 1710460823773.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "933:1414.4000244140625",
+        "cursorPosition": "48,9",
+        "scrollLine": "47"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1710474492,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1710474492834,
+    "read_only": false,
+    "read_only_alternatives": []
+}
