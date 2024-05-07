@@ -1,6 +1,21 @@
 ---
 title: "Blithering Idiolect"
 ---
-:::{.text-center}
+
+::: text-center
 This is definitely a webpage. Yep.
 :::
+
+This is an introduction.
+
+This is probably future content. Probably. Maybe:
+
+Baby's first website: Phonetics Lab
+
+Baby's first ConLang: Quekaria
+
+Check out this Icelandic thing I did.
+
+CV
+
+classes
