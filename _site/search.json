@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Blithering Idiolect",
     "section": "",
-    "text": "Blithering Idiolect is learning how to Quarto!\nitalics (one bordering asterisk)\nbold (two bordering asterisks)\nboth! (three!)\nstrikethrough (~~ bordering)\n`` &lt; verbatim code in the middle"
+    "text": "This is definitely a webpage. Yep."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site: it exists."
   },
   {
     "objectID": "index.html#header-2",
