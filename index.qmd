@@ -6,7 +6,7 @@ title: "Blithering Idiolect"
 This is definitely a webpage. Yep.
 :::
 
-This is an introduction.
+Hi! I'm Fielding. That's my last name. We're ignoring my first name primarily because I don't like it. If you didn't know that and you've been using my first name, that's fine! You can keep doing that! (But if you're military, yes, I would prefer that you switch, please.)
 
 Play [Pacman](pacman.Rhtml)
 
@@ -21,3 +21,7 @@ Check out this Icelandic thing I did.
 CV
 
 classes
+
+mil
+
+blog
