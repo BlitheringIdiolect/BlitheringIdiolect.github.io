@@ -8,6 +8,8 @@ This is definitely a webpage. Yep.
 
 This is an introduction.
 
+Play [Pacman](pacman.Rhtml)
+
 This is probably future content. Probably. Maybe:
 
 Baby's first website: Phonetics Lab

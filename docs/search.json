@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Blithering Idiolect",
     "section": "",
-    "text": "This is definitely a webpage. Yep.\n\nThis is an introduction.\nThis is probably future content. Probably. Maybe:\nBaby’s first website: Phonetics Lab\nBaby’s first ConLang: Quekaria\nCheck out this Icelandic thing I did.\nCV\nclasses"
+    "text": "This is definitely a webpage. Yep.\n\nThis is an introduction.\nPlay Pacman\nThis is probably future content. Probably. Maybe:\nBaby’s first website: Phonetics Lab\nBaby’s first ConLang: Quekaria\nCheck out this Icelandic thing I did.\nCV\nclasses"
   },
   {
     "objectID": "about.html",
@@ -74,7 +74,7 @@
     "href": "classes.html#work-studies-internships",
     "title": "Education and Professional Development",
     "section": "Work Studies & Internships",
-    "text": "Work Studies & Internships\n\nUniversity of Kentucky Phonetics Lab\n\nResearch Assistant\n\n\n\nLockheed Martin"
+    "text": "Work Studies & Internships\n\nUniversity of Kentucky Phonetics Lab\n\nResearch Assistant\n\nGit / GitHub\nRStudio\nQuarto\nCSS\nBootstrap\nHTML\nRMarkdown\nPraat\n\n\n\n\nLockheed Martin"
   },
   {
     "objectID": "classes.html#community-college-of-the-air-force-distinguished-graduate",
@@ -110,5 +110,180 @@
     "title": "Education and Professional Development",
     "section": "Organizations",
     "text": "Organizations\n\nLinguistic Society of America (LSA)"
+  },
+  {
+    "objectID": "What Is Linguistics.html#text",
+    "href": "What Is Linguistics.html#text",
+    "title": "What Is Linguistics?",
+    "section": "Text",
+    "text": "Text"
+  },
+  {
+    "objectID": "What Is Linguistics.html#more-text",
+    "href": "What Is Linguistics.html#more-text",
+    "title": "What Is Linguistics?",
+    "section": "More Text",
+    "text": "More Text"
+  },
+  {
+    "objectID": "What Is Linguistics.html#whats-your-major-linguistics",
+    "href": "What Is Linguistics.html#whats-your-major-linguistics",
+    "title": "What Is Linguistics?",
+    "section": "What’s your major? “Linguistics”",
+    "text": "What’s your major? “Linguistics”"
+  },
+  {
+    "objectID": "What Is Linguistics.html#oh-what-language",
+    "href": "What Is Linguistics.html#oh-what-language",
+    "title": "What Is Linguistics?",
+    "section": "Oh, what language?",
+    "text": "Oh, what language?"
+  },
+  {
+    "objectID": "What Is Linguistics.html#all-of-them.",
+    "href": "What Is Linguistics.html#all-of-them.",
+    "title": "What Is Linguistics?",
+    "section": "All of them.",
+    "text": "All of them."
+  },
+  {
+    "objectID": "What Is Linguistics.html#how-many-languages-do-you-speak",
+    "href": "What Is Linguistics.html#how-many-languages-do-you-speak",
+    "title": "What Is Linguistics?",
+    "section": "How many languages do you speak?",
+    "text": "How many languages do you speak?"
+  },
+  {
+    "objectID": "What Is Linguistics.html#the-short-answer-is-two.",
+    "href": "What Is Linguistics.html#the-short-answer-is-two.",
+    "title": "What Is Linguistics?",
+    "section": "The short answer is two.",
+    "text": "The short answer is two."
+  },
+  {
+    "objectID": "What Is Linguistics.html#the-long-answer",
+    "href": "What Is Linguistics.html#the-long-answer",
+    "title": "What Is Linguistics?",
+    "section": "The Long Answer",
+    "text": "The Long Answer"
+  },
+  {
+    "objectID": "What Is Linguistics.html#so-what-is-linguistics-actually",
+    "href": "What Is Linguistics.html#so-what-is-linguistics-actually",
+    "title": "What Is Linguistics?",
+    "section": "So what is Linguistics, actually?",
+    "text": "So what is Linguistics, actually?"
+  },
+  {
+    "objectID": "What Is Linguistics.html#its-the-science-of-language.",
+    "href": "What Is Linguistics.html#its-the-science-of-language.",
+    "title": "What Is Linguistics?",
+    "section": "It’s the Science of Language.",
+    "text": "It’s the Science of Language."
+  },
+  {
+    "objectID": "What Is Linguistics.html#and-heres-why-you-should-care",
+    "href": "What Is Linguistics.html#and-heres-why-you-should-care",
+    "title": "What Is Linguistics?",
+    "section": "and here’s why you should care:",
+    "text": "and here’s why you should care:"
+  },
+  {
+    "objectID": "What Is Linguistics.html#phonetics",
+    "href": "What Is Linguistics.html#phonetics",
+    "title": "What Is Linguistics?",
+    "section": "Phonetics",
+    "text": "Phonetics"
+  },
+  {
+    "objectID": "What Is Linguistics.html#phonology",
+    "href": "What Is Linguistics.html#phonology",
+    "title": "What Is Linguistics?",
+    "section": "Phonology",
+    "text": "Phonology"
+  },
+  {
+    "objectID": "What Is Linguistics.html#morphology",
+    "href": "What Is Linguistics.html#morphology",
+    "title": "What Is Linguistics?",
+    "section": "Morphology",
+    "text": "Morphology"
+  },
+  {
+    "objectID": "What Is Linguistics.html#syntax",
+    "href": "What Is Linguistics.html#syntax",
+    "title": "What Is Linguistics?",
+    "section": "Syntax",
+    "text": "Syntax"
+  },
+  {
+    "objectID": "What Is Linguistics.html#semantics",
+    "href": "What Is Linguistics.html#semantics",
+    "title": "What Is Linguistics?",
+    "section": "Semantics",
+    "text": "Semantics"
+  },
+  {
+    "objectID": "What Is Linguistics.html#pragmatics",
+    "href": "What Is Linguistics.html#pragmatics",
+    "title": "What Is Linguistics?",
+    "section": "Pragmatics",
+    "text": "Pragmatics"
+  },
+  {
+    "objectID": "What Is Linguistics.html#historical-linguistics",
+    "href": "What Is Linguistics.html#historical-linguistics",
+    "title": "What Is Linguistics?",
+    "section": "Historical Linguistics",
+    "text": "Historical Linguistics"
+  },
+  {
+    "objectID": "What Is Linguistics.html#sociolinguistics",
+    "href": "What Is Linguistics.html#sociolinguistics",
+    "title": "What Is Linguistics?",
+    "section": "Sociolinguistics",
+    "text": "Sociolinguistics"
+  },
+  {
+    "objectID": "What Is Linguistics.html#computational-linguistics",
+    "href": "What Is Linguistics.html#computational-linguistics",
+    "title": "What Is Linguistics?",
+    "section": "Computational Linguistics",
+    "text": "Computational Linguistics"
+  },
+  {
+    "objectID": "What Is Linguistics.html#thats-not-all-folks",
+    "href": "What Is Linguistics.html#thats-not-all-folks",
+    "title": "What Is Linguistics?",
+    "section": "That’s not all, folks!",
+    "text": "That’s not all, folks!"
+  },
+  {
+    "objectID": "What Is Linguistics.html#but-heres-my-jam-forensic-linguistics",
+    "href": "What Is Linguistics.html#but-heres-my-jam-forensic-linguistics",
+    "title": "What Is Linguistics?",
+    "section": "But here’s my jam: Forensic Linguistics",
+    "text": "But here’s my jam: Forensic Linguistics"
+  },
+  {
+    "objectID": "What Is Linguistics.html#and-yes-even-second-language-aquisition.",
+    "href": "What Is Linguistics.html#and-yes-even-second-language-aquisition.",
+    "title": "What Is Linguistics?",
+    "section": "And yes, even second language aquisition.",
+    "text": "And yes, even second language aquisition."
+  },
+  {
+    "objectID": "What Is Linguistics.html#psycholinguistics",
+    "href": "What Is Linguistics.html#psycholinguistics",
+    "title": "What Is Linguistics?",
+    "section": "Psycholinguistics",
+    "text": "Psycholinguistics"
+  },
+  {
+    "objectID": "What Is Linguistics.html#and-thats-not-all-folks",
+    "href": "What Is Linguistics.html#and-thats-not-all-folks",
+    "title": "What Is Linguistics?",
+    "section": "And that’s not all, folks!",
+    "text": "And that’s not all, folks!"
   }
 ]

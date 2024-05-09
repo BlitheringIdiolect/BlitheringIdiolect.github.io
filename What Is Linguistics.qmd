@@ -1,0 +1,51 @@
+---
+title: "What Is Linguistics?"
+author: "BlitheringIdiolect"
+format: revealjs
+---
+
+# What's your major? "Linguistics"
+
+this is content
+
+## Oh, what language?
+
+## All of them.
+
+## How many languages do you speak?
+
+## The short answer is two. 
+
+## The Long Answer
+
+## So what is Linguistics, actually?
+
+## It's the Science of Language. 
+
+## and here's why you should care:
+
+## Phonetics
+
+## Phonology
+
+## Morphology
+
+## Syntax
+
+## Semantics
+
+## Pragmatics
+
+## Historical Linguistics
+
+## Sociolinguistics
+
+## Psycholinguistics
+
+## Computational Linguistics
+
+## And yes, even second language aquisition.
+
+## And that's not all, folks!
+
+## But here's my jam: Forensic Linguistics
