@@ -183,6 +183,14 @@ Distance Learning; completed 20xx
 ### University of Kentucky Phonetics Lab
 
 #### Research Assistant
+- Git / GitHub
+- RStudio
+- Quarto
+- CSS
+- Bootstrap
+- HTML
+- RMarkdown
+- Praat
 
 ### Lockheed Martin
 
