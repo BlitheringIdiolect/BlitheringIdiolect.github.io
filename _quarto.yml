@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: BlitheringIdiolect.github.io/BlitheringIdiolect/Blog2.qmd
+      - href: Blog2.html
         text: Blog
       - about.qmd
 
